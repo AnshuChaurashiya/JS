@@ -1,4 +1,6 @@
-javaScript
+javaScript 
+
+javascript biggner to advanced
 
 ## Projects for practice
 
